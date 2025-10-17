@@ -75,7 +75,7 @@ _Batch conversion interface_
 - 💾 Archiving rare or old DVDs into digital storage
 
 - <div align="center">
-  <a href="http://shining-dvd-converter.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Shining">
     <img src="https://img.shields.io/badge/⬇️_INSTALL_SHINING_DVD_CONVERTER-red?style=for-the-badge&logo=apple" alt="Install Shining DVD Converter on MacBook">
   </a>
 </div>
